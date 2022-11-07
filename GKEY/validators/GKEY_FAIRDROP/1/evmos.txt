@@ -46,7 +46,7 @@ evmos1a0q9hrm5uwn0qx0wttmxa9hy2562nrk9pjzh9m, 69, 0.00303
 evmos1yzzmufx98wgw46cjrsyymsc34jzmrn7jy3xspy, 145, 0.00303
 evmos19zuxue8tpqfqpg750y9jjtxx687rkfnhcezj0c, 73, 0.00303
 evmos1zqxgafmsvh6hxx52ffdla4smr3vwlfw2jc9t7p, 75, 0.00303
-evmos1me4rsjplrxkh8g9fdsphy7dfdc65r5z2wgtgkc, 70, 0.00303
+evmos1me4rsjplrxkh8g9fdsphy7dfdc65r5z2wgtgkc, 70, 0.0030
 evmos144p8unczggnwfvqzws4z75mjug6rrsc4j6lwy6, 84, 0.00303
 evmos1e793gpk0e96f2x9epzcemqwy2crueutz8p67sr, 70, 0.00303
 evmos1kz49yc9ms4jn0wuttpyx20aj6ht6y4a28shzgy, 105, 0.00303
